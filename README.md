@@ -1,4 +1,4 @@
 # MSA-With-Spring-Cloud
 
-## API Gateway Small Architecture 
+## Spring Cloud Gateway - Eureka 연동
 <img src="files/Gateway-Eureka.png">
